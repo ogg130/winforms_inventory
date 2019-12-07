@@ -1,0 +1,17 @@
+D:\repos\robertogden\RobertOgden\bin\Debug\RobertOgden.exe.config
+D:\repos\robertogden\RobertOgden\bin\Debug\RobertOgden.exe
+D:\repos\robertogden\RobertOgden\bin\Debug\RobertOgden.pdb
+D:\repos\robertogden\RobertOgden\obj\Debug\RobertOgden.csprojAssemblyReference.cache
+D:\repos\robertogden\RobertOgden\obj\Debug\RobertOgden.Properties.Resources.resources
+D:\repos\robertogden\RobertOgden\obj\Debug\RobertOgden.csproj.GenerateResource.cache
+D:\repos\robertogden\RobertOgden\obj\Debug\RobertOgden.csproj.CoreCompileInputs.cache
+D:\repos\robertogden\RobertOgden\obj\Debug\RobertOgden.exe
+D:\repos\robertogden\RobertOgden\obj\Debug\RobertOgden.pdb
+D:\repos\robertogden\RobertOgden\obj\Debug\RobertOgden.Form_IMS.resources
+D:\repos\robertogden\RobertOgden\obj\Debug\RobertOgden.Form_ModifyParts.resources
+D:\repos\robertogden\RobertOgden\obj\Debug\RobertOgden.Form_AddParts.resources
+D:\repos\robertogden\RobertOgden\obj\Debug\RobertOgden.Form_AddProduct.resources
+D:\repos\robertogden\RobertOgden\obj\Debug\RobertOgden.Form_ModifyProduct.resources
+D:\repos\robertogden\RobertOgden\bin\Debug\Newtonsoft.Json.dll
+D:\repos\robertogden\RobertOgden\bin\Debug\Newtonsoft.Json.xml
+D:\repos\robertogden\RobertOgden\obj\Debug\RobertOgden.csproj.CopyComplete
